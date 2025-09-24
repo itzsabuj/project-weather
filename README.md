@@ -42,12 +42,7 @@ You'll need an API key from OpenWeatherMap to fetch weather data.
 
 3.  Tailwind CSS :
     This project uses Tailwind CSS. The `output.css` file is already compiled and included.
-    If you want to modify Tailwind classes or recompile the CSS, you'll need Node.js and npm/yarn installed.
-    * Install Tailwind CSS locally:
-        npx tailwindcss -i ./input.css -o ./output.css --watch
     
-
-
 ---
 
 ##  How to Use
